@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS Animation Effects</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <div class="box slide"></div>
+        <div class="box fade"></div>
+        <div class="box bounce"></div>
+        <div class="box rotate"></div>
+        <div class="box pulse"></div>
+        <div class="box zoom"></div>
+        <div class="box flip"></div>
+    </div>
+</body>
+</html>
